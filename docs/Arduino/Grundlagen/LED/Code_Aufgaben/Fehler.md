@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# Fehler
 
 ## General Tips
 - [Tip 1]
@@ -9,7 +9,7 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - [Analysieren Sie in Gruppenarbeit (2-4 Personen), welche Fehler beim Blink-Programm auftreten können (Schaltung, Programm). Dokumentieren Sie die möglichen Fehlerquellen und geben Sie Hinweise zum Lösen der Fehler.]
   
 </details>
 

@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# Title: Was sind LEDS?
 
 ## General Tips
 - [Tip 1]
@@ -9,7 +9,12 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - 
+
+    Recherchieren Sie die üblichen Diodenspannungen UDUD​ verschiedenfarbiger LEDs: a) rot, b) gelb, c) grün, d) blau, e) weiß.
+    Bestimmen Sie für eine an 5V angeschlossene blaue LED den benötigten Vorwiderstand, damit ein Maximalstrom von 20 mA bei einer Spannung von 3,2 V nicht überschritten wird.
+    Zwei rote LEDs mit einer Diodenspannung von 2 V und einem Strom von 20 mA werden in Reihe an 5 V angeschlossen. Zeichnen Sie die Schaltung mit Vorwiderstand. Bestimmen Sie den Wert des Vorwiderstandes [50Ω].
+    Eine ultrahelle LED mit folgendem Datenblatt soll an eine Spannungsquelle mit 5 V angeschlossen werden. Bestimmen Sie den nötigen Vorwiderstand, damit die Stromaufnahme der LED 50 mA beträgt [58Ω].
   
 </details>
 

@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# LED3
 
 ## General Tips
 - [Tip 1]
@@ -9,7 +9,8 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - [Schließen Sie eine weitere LED an einen anderen Pin an und lassen Sie beide LEDs abwechselnd blinken.
+]  
   
 </details>
 

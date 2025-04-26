@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# LED1
 
 ## General Tips
 - [Tip 1]
@@ -9,7 +9,7 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - [Ändern Sie die Periodendauer der LED auf 2 Sekunden. Innerhalb der 2 Sekunden soll die LED 90% der Zeit ausgeschaltet sein.]
   
 </details>
 

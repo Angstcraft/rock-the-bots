@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# LED4 
 
 ## General Tips
 - [Tip 1]
@@ -9,7 +9,7 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - [Lassen Sie die zwei LEDs mit unterschiedlichen An- und Auszeiten blinken.]
   
 </details>
 

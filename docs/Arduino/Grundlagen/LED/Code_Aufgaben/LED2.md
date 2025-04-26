@@ -1,4 +1,4 @@
-# Title: [Your Title Here]
+# LED2
 
 ## General Tips
 - [Tip 1]
@@ -9,13 +9,13 @@
 ### Click below to view tasks:
 <details>
   <summary>Click here to see tasks</summary>
-  - [Task 1: Enter Task Description]
+  - [Lassen Sie die LED das SOS Signal morsen (3x kurz, 3x lang, 3x kurz).]
   
 </details>
 
 ## Solutions
 
-### Task 1: [Task Title]
+### Task 1: SOS
 ```Arduino
  [Write your code example here]
 
